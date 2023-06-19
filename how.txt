@@ -1,0 +1,4 @@
+1. init server and cors on server.js
+2. add routes on routes.js
+3. add handler (function) on handler.js
+4. notes.js is like database to save notes
